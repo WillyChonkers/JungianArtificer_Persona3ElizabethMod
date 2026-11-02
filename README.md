@@ -1,4 +1,4 @@
-# Jungian Acolyte Kotone (Persona 3 FemC Mod)
+# Jungian Artificer Elizabeth (ROR2 Persona 3 Mod)
 
 "If I stay on this side any longer I fear I will forget my duties entirely..." But I won't, Elizabeth. Here I am, making another Persona 3 skin. Best girl one at that.
 PLEASE READ RECOMMENDED.
