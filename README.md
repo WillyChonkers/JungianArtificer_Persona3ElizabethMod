@@ -1,35 +1,37 @@
 # Jungian Acolyte Kotone (Persona 3 FemC Mod)
 
-Oh, so this new character that I love playing is a lady with a naginata that summons the god of death.
-
-I wonder where I've seen that before. My Little tribute to my favourite game and my new favourite ROR2 character.
-
+"If I stay on this side any longer I fear I will forget my duties entirely..." But I won't, Elizabeth. Here I am, making another Persona 3 skin. Best girl one at that.
+PLEASE READ RECOMMENDED.
 
 
-![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianAcolyte\_Persona3\_Femc\_Mod/refs/heads/main/images/1.png)
+
+![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianArtificer_Persona3ElizabethMod/refs/heads/main/imagesElizabeth/1.png)
 
 
 
 ## Dependencies
 
-* Hallowed Concepts DLC
 * BepInExPack.
 * R2API\_Skins
-* bbepis-BepInExPack
+
+## RECOMMENDED
+
+ItemDisplayToggle (To make items not visible on the character body. Items can look weird because the rig is not ready for them.
+I keep some of the original artstyle by not doing any extreme changes to the body of the character)
 
 
 
-![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianAcolyte\_Persona3\_Femc\_Mod/refs/heads/main/images/2.png)
+
+![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianArtificer_Persona3ElizabethMod/refs/heads/main/imagesElizabeth/2.png)
 
 
 
 ## Credits and Thanks
 
-* Model downloaded from MythicSpeed's Deviantart (Export from Persona Q) https://www.deviantart.com/mythicspeed/art/Blender-Release-Persona-Q2-Protagonists-861209715
-* Rigged and adapted to Acolyte proportions by me
-* Thanks to Frosty Riskofrain (For literally carrying my ass through the process)
+* Model: Exported from Persona Q 2 and modified/upscaled/rigged by me.
+* Thanks to Mwoi and Varna for their help fixing some issues and setting up the latest skinbuilder version.
 
 
 
-![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianAcolyte\_Persona3\_Femc\_Mod/refs/heads/main/images/3.png)
+![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianArtificer_Persona3ElizabethMod/refs/heads/main/imagesElizabeth/3.png)
 
